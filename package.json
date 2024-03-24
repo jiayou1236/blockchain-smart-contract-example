@@ -1,7 +1,7 @@
 {
-  "name": "your-project",
+  "name": "decentralized-dapp-kit",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "A decentralized dapp development kit for building blockchain applications.",
   "dependencies": {
     "decentralized-dapp-kit": "1.0.0"
   }
